@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="robots" content="noindex">
+        <style>html {background-color: #fff}</style>
+        <link rel="stylesheet" href="../../../style.css">
+        <title>src/part1/Registration.form · Part-1-S2 · GitFront</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="location">
+                <a href="../../..">Part-1-S2</a> /
+                <a href="../../../tree/src/">src</a> /
+                <a href="../../../tree/src/part1/">part1</a> /
+                <span>Registration.form</span>
+            </div>
+
+            <div class="blob-view">
+                <div class="header">
+                    <div class="header-basename">Registration.form</div>
+                    <div class="last">
+                        <a class="btn" href="../../../raw/src/part1/Registration.form">Raw</a>
+                    </div>
+                </div>
+                <div class="content ">
+                    <pre tabindex="0" class="highlight-chroma"><code><span class="highlight-line"><span class="highlight-cl">&lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34; ?&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">
+</span></span><span class="highlight-line"><span class="highlight-cl">&lt;Form version=&#34;1.3&#34; maxVersion=&#34;1.9&#34; type=&#34;org.netbeans.modules.form.forminfo.JFrameFormInfo&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Property name=&#34;defaultCloseOperation&#34; type=&#34;int&#34; value=&#34;3&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;/Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;SyntheticProperties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;SyntheticProperty name=&#34;formSizePolicy&#34; type=&#34;int&#34; value=&#34;1&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;SyntheticProperty name=&#34;generateCenter&#34; type=&#34;boolean&#34; value=&#34;false&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;/SyntheticProperties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;AuxValues&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_autoResourcing&#34; type=&#34;java.lang.Integer&#34; value=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_autoSetComponentName&#34; type=&#34;java.lang.Boolean&#34; value=&#34;false&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_generateFQN&#34; type=&#34;java.lang.Boolean&#34; value=&#34;true&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_generateMnemonicsCode&#34; type=&#34;java.lang.Boolean&#34; value=&#34;false&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_i18nAutoMode&#34; type=&#34;java.lang.Boolean&#34; value=&#34;false&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_layoutCodeTarget&#34; type=&#34;java.lang.Integer&#34; value=&#34;1&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_listenerGenerationStyle&#34; type=&#34;java.lang.Integer&#34; value=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_variablesLocal&#34; type=&#34;java.lang.Boolean&#34; value=&#34;false&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;AuxValue name=&#34;FormSettings_variablesModifier&#34; type=&#34;java.lang.Integer&#34; value=&#34;2&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;/AuxValues&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;Layout&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;DimensionLayout dim=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;Group type=&#34;103&#34; groupAlignment=&#34;0&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">          &lt;Group type=&#34;102&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;Group type=&#34;103&#34; groupAlignment=&#34;0&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Group type=&#34;102&#34; alignment=&#34;0&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                      &lt;EmptySpace min=&#34;-2&#34; pref=&#34;29&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                      &lt;Group type=&#34;103&#34; groupAlignment=&#34;0&#34; max=&#34;-2&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                          &lt;Component id=&#34;jLabel1&#34; min=&#34;-2&#34; pref=&#34;51&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                          &lt;Component id=&#34;jLabel2&#34; pref=&#34;77&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                          &lt;Component id=&#34;jLabel3&#34; alignment=&#34;0&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                          &lt;Component id=&#34;jLabel4&#34; alignment=&#34;0&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                      &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                      &lt;EmptySpace type=&#34;separate&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                      &lt;Group type=&#34;103&#34; groupAlignment=&#34;0&#34; max=&#34;-2&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                          &lt;Component id=&#34;txtUsername&#34; pref=&#34;182&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                          &lt;Component id=&#34;txtFirstname&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                          &lt;Component id=&#34;txtLastname&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                          &lt;Component id=&#34;txtPassword&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                      &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Group type=&#34;102&#34; alignment=&#34;0&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                      &lt;EmptySpace min=&#34;-2&#34; pref=&#34;140&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                      &lt;Component id=&#34;btnSubmit&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;EmptySpace pref=&#34;94&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">          &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/DimensionLayout&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;DimensionLayout dim=&#34;1&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;Group type=&#34;103&#34; groupAlignment=&#34;0&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">          &lt;Group type=&#34;102&#34; alignment=&#34;0&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;EmptySpace min=&#34;-2&#34; pref=&#34;14&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;Group type=&#34;103&#34; groupAlignment=&#34;3&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Component id=&#34;jLabel1&#34; alignment=&#34;3&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Component id=&#34;txtUsername&#34; alignment=&#34;3&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;EmptySpace type=&#34;separate&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;Group type=&#34;103&#34; groupAlignment=&#34;0&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Component id=&#34;jLabel2&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Component id=&#34;txtFirstname&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;EmptySpace type=&#34;separate&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;Group type=&#34;103&#34; groupAlignment=&#34;3&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Component id=&#34;jLabel3&#34; alignment=&#34;3&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Component id=&#34;txtLastname&#34; alignment=&#34;3&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;EmptySpace type=&#34;unrelated&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;Group type=&#34;103&#34; groupAlignment=&#34;3&#34; attributes=&#34;0&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Component id=&#34;jLabel4&#34; alignment=&#34;3&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">                  &lt;Component id=&#34;txtPassword&#34; alignment=&#34;3&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;EmptySpace min=&#34;-2&#34; pref=&#34;27&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;Component id=&#34;btnSubmit&#34; min=&#34;-2&#34; max=&#34;-2&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">              &lt;EmptySpace pref=&#34;100&#34; max=&#34;32767&#34; attributes=&#34;0&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">          &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;/Group&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/DimensionLayout&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;/Layout&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;SubComponents&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JLabel&#34; name=&#34;jLabel1&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">        &lt;Property name=&#34;text&#34; type=&#34;java.lang.String&#34; value=&#34;Username&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;/Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JLabel&#34; name=&#34;jLabel2&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">        &lt;Property name=&#34;text&#34; type=&#34;java.lang.String&#34; value=&#34;First Name&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;/Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JLabel&#34; name=&#34;jLabel3&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">        &lt;Property name=&#34;text&#34; type=&#34;java.lang.String&#34; value=&#34;Last Name&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;/Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JLabel&#34; name=&#34;jLabel4&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">        &lt;Property name=&#34;text&#34; type=&#34;java.lang.String&#34; value=&#34;Password&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;/Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JTextField&#34; name=&#34;txtUsername&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JTextField&#34; name=&#34;txtFirstname&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JTextField&#34; name=&#34;txtLastname&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JPasswordField&#34; name=&#34;txtPassword&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;Component class=&#34;javax.swing.JButton&#34; name=&#34;btnSubmit&#34;&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">        &lt;Property name=&#34;text&#34; type=&#34;java.lang.String&#34; value=&#34;Register&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;/Properties&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;Events&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">        &lt;EventHandler event=&#34;actionPerformed&#34; listener=&#34;java.awt.event.ActionListener&#34; parameters=&#34;java.awt.event.ActionEvent&#34; handler=&#34;btnSubmitActionPerformed&#34;/&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">      &lt;/Events&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">    &lt;/Component&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">  &lt;/SubComponents&gt;
+</span></span><span class="highlight-line"><span class="highlight-cl">&lt;/Form&gt;
+</span></span></code></pre>
+                </div>
+            </div>
+
+            <div class="space"></div>
+            <div class="footer">
+                Powered by <a href="https://gitfront.io">GitFront</a>
+            </div>
+        </div>
+    </body>
+</html>
